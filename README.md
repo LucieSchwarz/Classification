@@ -1,4 +1,4 @@
-# Classification
+# Gender Classification
 
 Utilisation de divers algorithmes de classification présents dans scikit learn pour résoudre un problème de classification du genre en fonction de la taille, du poids et de la pointure.
 
